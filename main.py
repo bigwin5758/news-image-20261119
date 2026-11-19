@@ -234,7 +234,7 @@ HEROES = [
      "Nuclear security and the Ukraine war top the agenda in Shenzhen."),
     ("VICE CITY · GAMES",
      "GTA VI LAUNCHES AFTER 13 YEARS OF WAITING",
-     "Metacritic 99. Over $1B to make, 15.88M pre-orders. Take-Two shares up."),
+     "Metacritic 99. Over $1B to make, 15.88M pre-orders."),
     ("NASDAQ · MARKETS",
      "ANTHROPIC IPO AT $81.3B, LARGEST EVER",
      "Shares priced at $83 in the biggest listing in history."),
@@ -242,9 +242,9 @@ HEROES = [
 
 GRID1 = [
     ("THE HAGUE · LAW", "WORLD COURT RULES ON MYANMAR",
-     "Delivers its verdict under the 1948 Genocide Convention.", RED),
+     "Verdict under the 1948 Convention.", RED),
     ("KYIV · WAR", "KERCH BRIDGE HIT AGAIN, TRAFFIC",
-     "Explosions target span; transit halted.", BLUE),
+     "Explosions halt transit; span shut.", BLUE),
     ("GAZA · WAR", "ISRAEL LAUNCHES GROUND OPERATION",
      "Troops advance into Nuseirat.", BLUE),
     ("GAZA · CRISIS", "RAIN DEEPENS GAZA SHELTER CRISIS",
@@ -253,11 +253,11 @@ GRID1 = [
 
 GRID2 = [
     ("TALLINN · EUROPE",
-     "ESTONIA TO SHUT LAND BORDER WITH RUSSIA FROM 1 DEC",
+     "ESTONIA TO SHUT BORDER WITH RUSSIA FROM 1 DEC",
      "Security measures tightened along eastern border.", ORANGE),
     ("ODISHA · STORM", "CYCLONE AKVAN NEARS INDIA'S EAST COAST",
-     "Coastal alerts issued as severe tropical storm nears.", ORANGE),
-    ("ANTALYA · CLIMATE", "COP31 ENTERS FINAL 48 HOURS, TALKS STILL",
+     "Coastal alerts as severe tropical storm nears.", ORANGE),
+    ("ANTALYA · CLIMATE", "COP31 FINAL 48 HOURS, TALKS STALL",
      "Finance and fossil-fuel phaseout divide.", ORANGE),
 ]
 
